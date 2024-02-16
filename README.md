@@ -26,7 +26,7 @@ O script lerá a coluna especificada do arquivo Excel, extrairá as informaçõe
 
 ## Problemas e Feedback
 
-Se encontrar problemas ou tiver feedback, sinta-se à vontade para abrir uma issue neste repositório.
+Se encontrar problemas ou tiver feedback, sinta-se à vontade para abrir uma [issue](https://github.com/Canalfs0ciety/Compara-Excel-com-PDF/issues) neste repositório.
 
 
 
